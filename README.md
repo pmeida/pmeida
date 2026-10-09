@@ -5,14 +5,16 @@ Contributor to Knative, OpenShift Serverless and cluster-api.<br />
 Past experience with AWS, Terraform...
 
 ### Activity
-📊 686 contributions | 🤝 54 repos | 📋 4 issues | ✅ 44 PRs | 🔍 49 reviews
+📊 696 contributions | 🤝 54 repos | 📋 4 issues | ✅ 45 PRs | 🔍 49 reviews
 
 ### Recent
 
 **Pull Requests**
-- SRVOCF-1092: refactor shared test stubs [`faas-console-plugin#231 ↗`](https://github.com/openshift/faas-console-plugin/pull/231) 🔄
+- WIP: surface namespace errors and recovery [`faas-console-plugin#234 ↗`](https://github.com/openshift/faas-console-plugin/pull/234) 🔄
+- SRVOCF-1092: refactor shared test stubs [`faas-console-plugin#231 ↗`](https://github.com/openshift/faas-console-plugin/pull/231) ✅
 - SRVOCF-1119: Pin console image to cluster OCP version [`faas-console-plugin#221 ↗`](https://github.com/openshift/faas-console-plugin/pull/221) 🔄
 - WIP: fakegithub with act for workflow execution [`faas-console-plugin#229 ↗`](https://github.com/openshift/faas-console-plugin/pull/229) 🔄
+- SRVOCF-1089: Clarify post-save success message in edit toolbar [`faas-console-plugin#215 ↗`](https://github.com/openshift/faas-console-plugin/pull/215) ✅
 
 **Issues**
 - runner.arch returns lowercase 'arm64' instead of 'ARM64' when using -self-hosted on ARM64 hosts [`act#6181 ↗`](https://github.com/nektos/act/issues/6181)
