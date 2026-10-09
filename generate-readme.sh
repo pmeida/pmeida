@@ -168,7 +168,7 @@ fetch_recent_prs() {
   local response
   response=$(gh api graphql -f query='
     {
-      search(query: "author:'"${GITHUB_USER}"' type:pr sort:updated", type: ISSUE, first: 3) {
+      search(query: "author:'"${GITHUB_USER}"' type:pr sort:updated", type: ISSUE, first: 5) {
         nodes {
           ... on PullRequest {
             repository { nameWithOwner }
