@@ -5,7 +5,7 @@ Contributor to Knative, OpenShift Serverless and cluster-api.<br />
 Past experience with AWS, Terraform...
 
 ### Activity
-📊 685 contributions | 🤝 83 repos | 📋 5 issues | ✅ 59 PRs | 🔍 50 reviews
+📊 686 contributions | 🤝 54 repos | 📋 4 issues | ✅ 44 PRs | 🔍 49 reviews
 
 ### Recent
 
