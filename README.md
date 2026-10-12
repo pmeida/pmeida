@@ -5,15 +5,15 @@ Contributor to Knative, OpenShift Serverless and cluster-api.<br />
 Past experience with AWS, Terraform...
 
 ### Activity
-📊 699 contributions | 🤝 54 repos | 📋 4 issues | ✅ 45 PRs | 🔍 49 reviews
+📊 707 contributions | 🤝 55 repos | 📋 4 issues | ✅ 45 PRs | 🔍 50 reviews
 
 ### Recent
 
 **Pull Requests**
-- WIP: fakegithub with act for workflow execution [`faas-console-plugin#229 ↗`](https://github.com/openshift/faas-console-plugin/pull/229) 🔄
-- WIP: surface namespace errors and recovery [`faas-console-plugin#234 ↗`](https://github.com/openshift/faas-console-plugin/pull/234) 🔄
-- SRVOCF-1092: refactor shared test stubs [`faas-console-plugin#231 ↗`](https://github.com/openshift/faas-console-plugin/pull/231) ✅
+- SRVOCF-1092: Validate namespace existence in function list [`faas-console-plugin#234 ↗`](https://github.com/openshift/faas-console-plugin/pull/234) 🔄
 - SRVOCF-1119: Pin console image to cluster OCP version [`faas-console-plugin#221 ↗`](https://github.com/openshift/faas-console-plugin/pull/221) 🔄
+- WIP: fakegithub with act for workflow execution [`faas-console-plugin#229 ↗`](https://github.com/openshift/faas-console-plugin/pull/229) 🔄
+- SRVOCF-1092: refactor shared test stubs [`faas-console-plugin#231 ↗`](https://github.com/openshift/faas-console-plugin/pull/231) ✅
 - SRVOCF-1089: Clarify post-save success message in edit toolbar [`faas-console-plugin#215 ↗`](https://github.com/openshift/faas-console-plugin/pull/215) ✅
 
 **Issues**
@@ -26,4 +26,4 @@ Past experience with AWS, Terraform...
 - [LinkedIn](https://www.linkedin.com/in/pedro-almeida-17a6bb183)
 - [GitHub](https://github.com/pmeida)
 
-_Last updated: 11. October 2026_
+_Last updated: 13. October 2026_
