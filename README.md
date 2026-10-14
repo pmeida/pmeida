@@ -10,16 +10,16 @@ Past experience with AWS, Terraform...
 ### Recent
 
 **Pull Requests**
-- [`openshift/release#87070`](https://github.com/openshift/release/pull/87070)[WIP] OCPBUGS-129588: test terraform-windows-provisioner update 🔄
-- [`openshift/terraform-windows-provisioner#24`](https://github.com/openshift/terraform-windows-provisioner/pull/24)OCPBUGS-129588: add kubernetes.io/cluster tag to none platform Windows instances 🔄
-- [`openshift/faas-console-plugin#234`](https://github.com/openshift/faas-console-plugin/pull/234)SRVOCF-1092: Validate namespace existence in function list 🔄
-- [`openshift/faas-console-plugin#221`](https://github.com/openshift/faas-console-plugin/pull/221)SRVOCF-1119: Pin console image to cluster OCP version 🔄
-- [`openshift/faas-console-plugin#229`](https://github.com/openshift/faas-console-plugin/pull/229)WIP: fakegithub with act for workflow execution 🔄
+- 🔄 [`openshift/release#87070`](https://github.com/openshift/release/pull/87070)[WIP] OCPBUGS-129588: test terraform-windows-provisioner update
+- 🔄 [`openshift/terraform-windows-provisioner#24`](https://github.com/openshift/terraform-windows-provisioner/pull/24)OCPBUGS-129588: add kubernetes.io/cluster tag to none platform Windows instances
+- 🔄 [`openshift/faas-console-plugin#234`](https://github.com/openshift/faas-console-plugin/pull/234)SRVOCF-1092: Validate namespace existence in function list
+- 🔄 [`openshift/faas-console-plugin#221`](https://github.com/openshift/faas-console-plugin/pull/221)SRVOCF-1119: Pin console image to cluster OCP version
+- 🔄 [`openshift/faas-console-plugin#229`](https://github.com/openshift/faas-console-plugin/pull/229)WIP: fakegithub with act for workflow execution
 
 **Issues**
 - [`nektos/act#6181`](https://github.com/nektos/act/issues/6181)runner.arch returns lowercase 'arm64' instead of 'ARM64' when using -self-hosted on ARM64 hosts
-- [`knative/func#4031`](https://github.com/knative/func/issues/4031)config ci: builder configured in func.yaml is ignored in generated workflow ✓
-- [`knative/func#4028`](https://github.com/knative/func/issues/4028)config ci: source func CLI version from build ldflags ✓
+- ✓ [`knative/func#4031`](https://github.com/knative/func/issues/4031)config ci: builder configured in func.yaml is ignored in generated workflow
+- ✓ [`knative/func#4028`](https://github.com/knative/func/issues/4028)config ci: source func CLI version from build ldflags
 
 ### Let's Connect
 
