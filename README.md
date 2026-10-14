@@ -10,11 +10,11 @@ Past experience with AWS, Terraform...
 ### Recent
 
 **Pull Requests**
-- [WIP] OCPBUGS-129588: test terraform-windows-provisioner update [`release#87070 ↗`](https://github.com/openshift/release/pull/87070) 🔄
-- OCPBUGS-129588: add kubernetes.io/cluster tag to none platform Windows instances [`terraform-windows-provisioner#24 ↗`](https://github.com/openshift/terraform-windows-provisioner/pull/24) 🔄
-- SRVOCF-1092: Validate namespace existence in function list [`faas-console-plugin#234 ↗`](https://github.com/openshift/faas-console-plugin/pull/234) 🔄
-- SRVOCF-1119: Pin console image to cluster OCP version [`faas-console-plugin#221 ↗`](https://github.com/openshift/faas-console-plugin/pull/221) 🔄
-- WIP: fakegithub with act for workflow execution [`faas-console-plugin#229 ↗`](https://github.com/openshift/faas-console-plugin/pull/229) 🔄
+- [`release#87070`](https://github.com/openshift/release/pull/87070)[WIP] OCPBUGS-129588: test terraform-windows-provisioner update 🔄
+- [`terraform-windows-provisioner#24`](https://github.com/openshift/terraform-windows-provisioner/pull/24)OCPBUGS-129588: add kubernetes.io/cluster tag to none platform Windows instances 🔄
+- [`faas-console-plugin#234`](https://github.com/openshift/faas-console-plugin/pull/234)SRVOCF-1092: Validate namespace existence in function list 🔄
+- [`faas-console-plugin#221`](https://github.com/openshift/faas-console-plugin/pull/221)SRVOCF-1119: Pin console image to cluster OCP version 🔄
+- [`faas-console-plugin#229`](https://github.com/openshift/faas-console-plugin/pull/229)WIP: fakegithub with act for workflow execution 🔄
 
 **Issues**
 - runner.arch returns lowercase 'arm64' instead of 'ARM64' when using -self-hosted on ARM64 hosts [`act#6181 ↗`](https://github.com/nektos/act/issues/6181)
