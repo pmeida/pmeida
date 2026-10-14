@@ -75,12 +75,12 @@ load_sample_data() {
   review_count=258
 
   issues_section="- [${BT}knative-extensions/eventing-kafka-broker#4569${BT}](https://github.com/knative-extensions/eventing-kafka-broker/issues/4569)Profiling runs fail locally on Fedora Linux."$'\n'
-  issues_section+="- [${BT}tektoncd/pipeline#8921${BT}](https://github.com/tektoncd/pipeline/issues/8921)Cleanup pipelinerunresolution_test.go ✓"$'\n'
+  issues_section+="- ✓ [${BT}tektoncd/pipeline#8921${BT}](https://github.com/tektoncd/pipeline/issues/8921)Cleanup pipelinerunresolution_test.go"$'\n'
   issues_section+="- [${BT}knative/func#3256${BT}](https://github.com/knative/func/issues/3256)Implement Github Workflow generation"$'\n'
 
-  prs_section="- [${BT}knative/func#3479${BT}](https://github.com/knative/func/pull/3479)Add runtime-aware builder config 🔄"$'\n'
-  prs_section+="- [${BT}tektoncd/pipeline#9365${BT}](https://github.com/tektoncd/pipeline/pull/9365)Deduplicate concurrent resolver cache requests 🔄"$'\n'
-  prs_section+="- [${BT}pmeida/knative-func#1${BT}](https://github.com/pmeida/knative-func/pull/1)Use act for generated workflow testing ❌"$'\n'
+  prs_section+="- 🔄 [${BT}knative/func#3479${BT}](https://github.com/knative/func/pull/3479)Add runtime-aware builder config"$'\n'
+  prs_section+="- 🔄 [${BT}tektoncd/pipeline#9365${BT}](https://github.com/tektoncd/pipeline/pull/9365)Deduplicate concurrent resolver cache requests"$'\n'
+  prs_section+="- ❌ [${BT}pmeida/knative-func#1${BT}](https://github.com/pmeida/knative-func/pull/1)Use act for generated workflow testing"$'\n'
 
   echo "Loaded sample data for dry-run"
 }
@@ -154,10 +154,10 @@ fetch_recent_issues() {
 
     marker=""
     if [[ "$state" == "closed" ]]; then
-      marker=" ✓"
+      marker="✓ "
     fi
 
-    issues_section+="- [${BT}${repo}#${number}${BT}](${url})${title}${marker}"$'\n'
+    issues_section+="- ${marker}[${BT}${repo}#${number}${BT}](${url})${title}"$'\n'
   done < <(echo "$raw" | jq -c '.[]')
 
   [[ -n "$issues_section" ]]
@@ -195,7 +195,7 @@ fetch_recent_prs() {
       *)      emoji="❌" ;;
     esac
 
-    prs_section+="- [${BT}${repo}#${number}${BT}](${url})${title} ${emoji}"$'\n'
+    prs_section+="- ${emoji} [${BT}${repo}#${number}${BT}](${url})${title}"$'\n'
   done < <(echo "$response" | jq -c '.data.search.nodes[]')
 
   [[ -n "$prs_section" ]]
