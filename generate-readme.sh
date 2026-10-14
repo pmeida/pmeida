@@ -197,7 +197,7 @@ fetch_recent_prs() {
       *)      emoji="❌" ;;
     esac
 
-    prs_section+="- ${title} [${BT}${repo_name}#${number} ↗${BT}](${url}) ${emoji}"$'\n'
+    prs_section+="- [${BT}${repo_name}#${number}${BT}](${url})${title} ${emoji}"$'\n'
   done < <(echo "$response" | jq -c '.data.search.nodes[]')
 
   [[ -n "$prs_section" ]]
