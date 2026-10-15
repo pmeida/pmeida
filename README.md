@@ -5,14 +5,14 @@ Contributor to Knative, OpenShift Serverless and cluster-api.<br />
 Past experience with AWS, Terraform...
 
 ### Activity
-📊 714 contributions | 🤝 57 repos | 📋 4 issues | ✅ 46 PRs | 🔍 50 reviews
+📊 715 contributions | 🤝 57 repos | 📋 4 issues | ✅ 46 PRs | 🔍 51 reviews
 
 ### Recent
 
 **Pull Requests**
-- ✅ [`openshift/terraform-windows-provisioner#24`](https://github.com/openshift/terraform-windows-provisioner/pull/24)OCPBUGS-129588: add kubernetes.io/cluster tag to none platform Windows instances
-- 🔄 [`openshift/release#87070`](https://github.com/openshift/release/pull/87070)[WIP] OCPBUGS-129588: test terraform-windows-provisioner update
 - 🔄 [`openshift/faas-console-plugin#234`](https://github.com/openshift/faas-console-plugin/pull/234)SRVOCF-1092: Validate namespace existence in function list
+- ✅ [`openshift/terraform-windows-provisioner#24`](https://github.com/openshift/terraform-windows-provisioner/pull/24)OCPBUGS-129588: add kubernetes.io/cluster tag to none platform Windows instances
+- ❌ [`openshift/release#87070`](https://github.com/openshift/release/pull/87070)[WIP] OCPBUGS-129588: test terraform-windows-provisioner update
 - 🔄 [`openshift/faas-console-plugin#221`](https://github.com/openshift/faas-console-plugin/pull/221)SRVOCF-1119: Pin console image to cluster OCP version
 - 🔄 [`openshift/faas-console-plugin#229`](https://github.com/openshift/faas-console-plugin/pull/229)WIP: fakegithub with act for workflow execution
 
@@ -26,4 +26,4 @@ Past experience with AWS, Terraform...
 - [LinkedIn](https://www.linkedin.com/in/pedro-almeida-17a6bb183)
 - [GitHub](https://github.com/pmeida)
 
-_Last updated: 14. October 2026_
+_Last updated: 15. October 2026_
