@@ -5,16 +5,16 @@ Contributor to Knative, OpenShift Serverless and cluster-api.<br />
 Past experience with AWS, Terraform...
 
 ### Activity
-📊 744 contributions | 🤝 60 repos | 📋 4 issues | ✅ 47 PRs | 🔍 57 reviews
+📊 747 contributions | 🤝 60 repos | 📋 4 issues | ✅ 47 PRs | 🔍 58 reviews
 
 ### Recent
 
 **Pull Requests**
 - 🔄 [`openshift/faas-console-plugin#211`](https://github.com/openshift/faas-console-plugin/pull/211)SRVOCF-1113: Identify clusters by immutable UUID instead of API URL
+- 🔄 [`openshift/faas-console-plugin#265`](https://github.com/openshift/faas-console-plugin/pull/265)SRVOCF-1119: use data-test-id selector for namespace bar dropdown
 - 🔄 [`openshift/faas-console-plugin#221`](https://github.com/openshift/faas-console-plugin/pull/221)SRVOCF-1119: Pin console image to cluster OCP version
+- ❌ [`nektos/act#6182`](https://github.com/nektos/act/pull/6182)fix: map Go's arm64 to ARM64 in host environment runner arch
 - ✅ [`openshift/faas-console-plugin#234`](https://github.com/openshift/faas-console-plugin/pull/234)SRVOCF-1092: Validate namespace existence in function list
-- 🔄 [`openshift/release#87359`](https://github.com/openshift/release/pull/87359)SRVOCF-1119: pin faas-console-plugin e2e to OCP 4.22 nightly
-- ✅ [`openshift/terraform-windows-provisioner#24`](https://github.com/openshift/terraform-windows-provisioner/pull/24)OCPBUGS-129588: add kubernetes.io/cluster tag to none platform Windows instances
 
 **Issues**
 - [`nektos/act#6181`](https://github.com/nektos/act/issues/6181)runner.arch returns lowercase 'arm64' instead of 'ARM64' when using -self-hosted on ARM64 hosts
@@ -26,4 +26,4 @@ Past experience with AWS, Terraform...
 - [LinkedIn](https://www.linkedin.com/in/pedro-almeida-17a6bb183)
 - [GitHub](https://github.com/pmeida)
 
-_Last updated: 27. October 2026_
+_Last updated: 28. October 2026_
