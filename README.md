@@ -5,16 +5,16 @@ Contributor to Knative, OpenShift Serverless and cluster-api.<br />
 Past experience with AWS, Terraform...
 
 ### Activity
-📊 760 contributions | 🤝 62 repos | 📋 4 issues | ✅ 50 PRs | 🔍 59 reviews
+📊 764 contributions | 🤝 62 repos | 📋 4 issues | ✅ 52 PRs | 🔍 61 reviews
 
 ### Recent
 
 **Pull Requests**
+- ✅ [`openshift/faas-console-plugin#221`](https://github.com/openshift/faas-console-plugin/pull/221)SRVOCF-1119: Pin console image to cluster OCP version
+- ✅ [`openshift/release#87359`](https://github.com/openshift/release/pull/87359)SRVOCF-1119: pin faas-console-plugin e2e to OCP 4.22 nightly
 - ✅ [`openshift/faas-console-plugin#265`](https://github.com/openshift/faas-console-plugin/pull/265)SRVOCF-1119: use semantic selector for namespace bar dropdown button
-- 🔄 [`openshift/faas-console-plugin#221`](https://github.com/openshift/faas-console-plugin/pull/221)SRVOCF-1119: Pin console image to cluster OCP version
 - ✅ [`openshift/functions-operator#410`](https://github.com/openshift/functions-operator/pull/410)add --cluster-id to console plugin deployment
 - ✅ [`openshift/faas-console-plugin#211`](https://github.com/openshift/faas-console-plugin/pull/211)SRVOCF-1113: Identify clusters by immutable UUID instead of API URL
-- ❌ [`openshift/faas-console-plugin#229`](https://github.com/openshift/faas-console-plugin/pull/229)WIP: fakegithub with act for workflow execution
 
 **Issues**
 - [`nektos/act#6181`](https://github.com/nektos/act/issues/6181)runner.arch returns lowercase 'arm64' instead of 'ARM64' when using -self-hosted on ARM64 hosts
@@ -26,4 +26,4 @@ Past experience with AWS, Terraform...
 - [LinkedIn](https://www.linkedin.com/in/pedro-almeida-17a6bb183)
 - [GitHub](https://github.com/pmeida)
 
-_Last updated: 3. November 2026_
+_Last updated: 4. November 2026_
