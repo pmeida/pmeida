@@ -5,12 +5,12 @@ Contributor to Knative, OpenShift Serverless and cluster-api.<br />
 Past experience with AWS, Terraform...
 
 ### Activity
-📊 776 contributions | 🤝 65 repos | 📋 4 issues | ✅ 52 PRs | 🔍 61 reviews
+📊 777 contributions | 🤝 65 repos | 📋 4 issues | ✅ 52 PRs | 🔍 61 reviews
 
 ### Recent
 
 **Pull Requests**
-- 🔄 [`openshift/faas-console-plugin#267`](https://github.com/openshift/faas-console-plugin/pull/267)WIP: define backlog qualification and grooming workflow
+- 🔄 [`openshift/faas-console-plugin#267`](https://github.com/openshift/faas-console-plugin/pull/267)SRVOCF-1203: define backlog qualification and grooming workflow
 - ✅ [`openshift/faas-console-plugin#221`](https://github.com/openshift/faas-console-plugin/pull/221)SRVOCF-1119: Pin console image to cluster OCP version
 - ✅ [`openshift/release#87359`](https://github.com/openshift/release/pull/87359)SRVOCF-1119: pin faas-console-plugin e2e to OCP 4.22 nightly
 - ✅ [`openshift/faas-console-plugin#265`](https://github.com/openshift/faas-console-plugin/pull/265)SRVOCF-1119: use semantic selector for namespace bar dropdown button
@@ -26,4 +26,4 @@ Past experience with AWS, Terraform...
 - [LinkedIn](https://www.linkedin.com/in/pedro-almeida-17a6bb183)
 - [GitHub](https://github.com/pmeida)
 
-_Last updated: 5. November 2026_
+_Last updated: 6. November 2026_
