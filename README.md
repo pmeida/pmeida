@@ -5,7 +5,7 @@ Contributor to Knative, OpenShift Serverless and cluster-api.<br />
 Past experience with AWS, Terraform...
 
 ### Activity
-📊 785 contributions | 🤝 65 repos | 📋 4 issues | ✅ 52 PRs | 🔍 64 reviews
+📊 787 contributions | 🤝 65 repos | 📋 4 issues | ✅ 52 PRs | 🔍 65 reviews
 
 ### Recent
 
@@ -26,4 +26,4 @@ Past experience with AWS, Terraform...
 - [LinkedIn](https://www.linkedin.com/in/pedro-almeida-17a6bb183)
 - [GitHub](https://github.com/pmeida)
 
-_Last updated: 12. November 2026_
+_Last updated: 13. November 2026_
